@@ -24,4 +24,4 @@ Mund und Hände sind oft nicht detailliert
 [Wombo AI](https://w.ai/)
 [Sora](https://openai.com/index/sora/)
 Yoshi Video
-JD Vance
+JD Vance Meme (Rotierend)
