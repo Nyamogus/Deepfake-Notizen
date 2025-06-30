@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notizen.md",
+                "file": "Links.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notizen"
+              "title": "Links"
             }
           }
         ]
@@ -179,10 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd69912a4ba68f97",
+  "active": "532f406ff52fdcb8",
   "lastOpenFiles": [
-    "Links.md",
     "Notizen.md",
+    "Links.md",
     "Welcome.md"
   ]
 }
