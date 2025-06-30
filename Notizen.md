@@ -19,6 +19,9 @@ Mund und Hände sind oft nicht detailliert
 + Andere Möglichkeiten verlinken
 
 # Beispiele
-Wombo AI
+[Stable Diffusion](https://stability.ai/stable-image)
+	[Github](https://github.com/Stability-AI/generative-models)
+[Wombo AI](https://w.ai/)
+[Sora](https://openai.com/index/sora/)
 Yoshi Video
 JD Vance
